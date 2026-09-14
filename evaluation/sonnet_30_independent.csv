@@ -1,0 +1,31 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,earliest_date_for_full_payment,note
+request_42,52100,affordable_now,full_payment,2026-01-05,large buffer despite salary-drop message
+request_44,28872.9,affordable_later,wait,2025-02-15,added 2nd confirmed salary from message
+request_48,0,not_affordable,not_recommended,,income ~984/mo far below 25200 rent
+request_50,43900,affordable_now,full_payment,2025-08-06,
+request_51,2191000,affordable_now,full_payment,2026-01-03,
+request_54,0,not_affordable,not_recommended,,thin deficit even after salary-raise message
+request_80,119816.9,not_affordable,not_recommended,,only installments accepted but options exceed max_installment_months
+request_96,76700.9,affordable_with_plan,installments,2026-01-14,only installments accepted
+request_99,18062,affordable_now,full_payment,2026-07-04,
+request_101,143500,affordable_now,full_payment,2025-11-03,windfall message irrelevant given large buffer
+request_116,10284.5,not_affordable,not_recommended,,installment options exceed max 12mo; partial not allowed
+request_127,12319.8,affordable_later,wait,2024-11-11,
+request_147,387.8,affordable_with_plan,installments,2026-06-13,only installments accepted; near buffer limit
+request_148,8225,affordable_with_plan,installments,2024-08-14,only installments accepted
+request_153,0,not_affordable,not_recommended,,installment option exceeds max 3mo
+request_164,27018000,affordable_with_plan,installments,2025-02-04,full amount safe now but user doesn't accept full_payment
+request_188,0,not_affordable,not_recommended,,installments exceed max 7mo
+request_192,242.2,affordable_later,wait,2026-06-13,installments exceed max 7mo
+request_201,21586188,not_affordable,not_recommended,,seasonal income ended per message removed from forecast
+request_205,10621000,affordable_now,full_payment,2024-03-06,
+request_207,5420,affordable_later,wait,2026-07-15,
+request_214,0,not_affordable,not_recommended,,deep pre-existing deficit
+request_219,1294.1,affordable_with_plan,installments,2026-06-13,only installments accepted
+request_220,188.9,not_affordable,not_recommended,,pay-reduction message applied; installments exceed max 6mo
+request_221,109800,affordable_now,full_payment,2025-11-03,
+request_224,4158359,affordable_later,not_recommended,2025-04-17,full_payment not accepted; installments unsafe or late
+request_257,327.4,affordable_later,wait,2026-01-15,earliest equals desired date
+request_265,0,not_affordable,not_recommended,,seasonal income ended per message removed from forecast
+request_267,160.3,not_affordable,not_recommended,,installment payments exceed safe buffer
+request_270,157.6,affordable_later,not_recommended,2026-09-13,full_payment not accepted; installments exceed max 7mo

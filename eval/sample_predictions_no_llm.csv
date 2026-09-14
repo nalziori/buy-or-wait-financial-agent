@@ -1,0 +1,26 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_01,25256,affordable_now,full_payment,2024-03-03:25256,2024-03-03,none,"Pay ZAR 25,256 today. This leaves at least ZAR 18,000 available over the next 90 days."
+request_02,18336765.48,not_affordable,not_recommended,none,,none,"Do not make this payment by 10 October 2025. None of the available options keeps the IDR 29,158,400 minimum protected."
+request_03,971737,affordable_later,wait,2019-11-15:5491000,2019-11-15,none,"Pay IDR 5,491,000 in full on 15 November 2019. Paying earlier would take the balance below the IDR 2,668,700 minimum."
+request_04,10609286.07,affordable_later,wait,2024-06-15:12693000,2024-06-15,none,"Pay IDR 12,693,000 in full on 15 June 2024. Paying earlier would take the balance below the IDR 30,686,600 minimum."
+request_05,0,not_affordable,not_recommended,none,,none,"Do not make this payment by 12 January 2026. None of the available options keeps the ZAR 13,100 minimum protected."
+request_06,523.84,not_affordable,not_recommended,none,,none,Do not make this payment by 14 January 2026. None of the available options keeps the EUR 800 minimum protected.
+request_07,95384.66,affordable_with_plan,installments,2024-09-12:68432|2024-10-10:68432|2024-11-07:68432,2024-10-15,none,"Use 3 installments of INR 68,432, starting 12 September 2024. This leaves at least INR 93,000 available."
+request_08,285.2,not_affordable,not_recommended,none,,none,Do not make this payment by 15 April 2025. None of the available options keeps the EUR 800 minimum protected.
+request_09,166.61,affordable_now,full_payment,2026-07-04:166.61,2026-07-04,none,Pay EUR 166.61 today. This leaves at least EUR 600 available over the next 90 days.
+request_10,0,not_affordable,not_recommended,none,,none,"Do not make this payment by 10 February 2025. None of the available options keeps the INR 225,400 minimum protected."
+request_11,12319866.62,affordable_with_plan,full_payment,2025-05-03:13110000,2025-06-15,stop:event_949|reduce_to:event_989:665950,"Stop the cloud storage plan and reduce the weekend food delivery to idr 665,950, then pay IDR 13,110,000 today. This leaves at least IDR 34,140,600 available."
+request_12,60370.25,affordable_with_plan,installments,2026-04-19:22590.19|2026-05-20:22590.19|2026-06-20:22590.19,,stop:event_1016|reduce_to:event_1054:1072.50,"Stop the family streaming plan and reduce the coffee shop to zar 1,072.50, then use 3 installments of ZAR 22,590.19, starting 19 April 2026. This leaves at least ZAR 43,200 available."
+request_13,490.8,not_affordable,not_recommended,none,,none,"Do not make this payment by 15 May 2024. None of the available options keeps the EUR 1,300 minimum protected."
+request_14,0,not_affordable,not_recommended,none,,none,"Do not make this payment by 4 October 2025. None of the available options keeps the EUR 2,200 minimum protected."
+request_15,5.09,not_affordable,not_recommended,none,,none,"Do not make this payment by 1 February 2026. None of the available options keeps the EUR 1,200 minimum protected."
+request_16,122500,affordable_now,full_payment,2023-08-12:122500,2023-08-12,none,"Pay INR 122,500 today. This leaves at least INR 122,400 available over the next 90 days."
+request_17,243023.68,affordable_with_plan,installments,2026-03-01:95194.67|2026-03-31:95194.67|2026-04-30:95194.67,2026-04-15,none,"Use 3 installments of INR 95,194.67, starting 1 March 2026. This leaves at least INR 166,100 available."
+request_18,546.05,affordable_later,wait,2026-09-15:3246.10,2026-09-15,none,"Pay EUR 3,246.10 in full on 15 September 2026. Paying earlier would take the balance below the EUR 1,400 minimum."
+request_19,25176.15,affordable_with_plan,partial_payment,2024-09-04:25176.15|2024-09-15:14483.85,2024-09-15,none,"Pay INR 25,176.15 today and the remaining INR 14,483.85 on 15 September 2024. This completes the full request and keeps the INR 92,800 minimum protected."
+request_20,9673.73,not_affordable,not_recommended,none,,none,"Do not make this payment by 22 February 2026. None of the available options keeps the INR 64,500 minimum protected."
+request_21,1574.4,affordable_now,full_payment,2026-04-03:1574.40,2026-04-03,none,"Pay USD 1,574.40 today. This leaves at least USD 1,800 available over the next 90 days."
+request_22,464.61,affordable_with_plan,installments,2024-12-08:253.59|2025-01-05:253.59|2025-02-02:253.59,2025-01-15,none,"Use 3 installments of EUR 253.59, starting 8 December 2024. This leaves at least EUR 500 available."
+request_23,8360.18,affordable_later,wait,2025-07-15:38016,2025-07-15,none,"Pay ZAR 38,016 in full on 15 July 2025. Paying earlier would take the balance below the ZAR 27,000 minimum."
+request_24,13539.29,not_affordable,not_recommended,none,,none,"Do not proceed with the INR 109,600 request. Although INR 13,539.29 is available today, the full amount cannot be completed safely within 90 days."
+request_25,376083.41,not_affordable,not_recommended,none,,none,"Do not make this payment by 17 April 2024. None of the available options keeps the IDR 23,379,100 minimum protected."

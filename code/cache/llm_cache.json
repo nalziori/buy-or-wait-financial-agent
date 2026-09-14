@@ -1,0 +1,6333 @@
+{
+ "7a541f16f9bd36043240481c454d4009d6d1192d85233e5e9bf9baad5e43d422": {
+  "output": {
+   "amount": 4365000,
+   "currency": "IDR",
+   "field_label": "Net Pay"
+  },
+  "usage": {
+   "input_tokens": 1243,
+   "output_tokens": 298
+  }
+ },
+ "33ab903b3e0d2a9a430fdd1c82501a07340a3bfe10a736cdf2ae0c3598eb68eb": {
+  "output": {
+   "amount": 100000,
+   "currency": "INR",
+   "field_label": "Balance Due:"
+  },
+  "usage": {
+   "input_tokens": 1242,
+   "output_tokens": 626
+  }
+ },
+ "1e9b32794bd570fbdf7c1e7e83fa2e9eaf1753f2f28e63e17d09edd711d913d6": {
+  "output": {
+   "amount": 79679.26,
+   "currency": "INR",
+   "field_label": "Total"
+  },
+  "usage": {
+   "input_tokens": 1239,
+   "output_tokens": 467
+  }
+ },
+ "5c4c004325c586818cc27b67c2374dace43520e2247239ebe0b47d45da69b9d1": {
+  "output": {
+   "amount": 1995.0,
+   "currency": "INR",
+   "field_label": "Total"
+  },
+  "usage": {
+   "input_tokens": 1243,
+   "output_tokens": 398
+  }
+ },
+ "230a2708a92c59a2b1e6be9974adff816353dd30d3e30adbdbdeefee6726941f": {
+  "output": {
+   "amount": 4543,
+   "currency": "INR",
+   "field_label": "TOTAL"
+  },
+  "usage": {
+   "input_tokens": 1234,
+   "output_tokens": 397
+  }
+ },
+ "f6116301dfae71441cd39cf27f627cd2aaa6a620501e6dd076cd3f6eb15760cd": {
+  "output": {
+   "images": [
+    {
+     "image_id": "image_01",
+     "amount": 4365000.0,
+     "currency": "IDR",
+     "field_label": "Net Pay"
+    },
+    {
+     "image_id": "image_02",
+     "amount": 100000.0,
+     "currency": "INR",
+     "field_label": "Balance Due:"
+    },
+    {
+     "image_id": "image_03",
+     "amount": 41272.0,
+     "currency": "INR",
+     "field_label": "Net Amount:"
+    },
+    {
+     "image_id": "image_04",
+     "amount": 2854.0,
+     "currency": "INR",
+     "field_label": "Item Bill"
+    },
+    {
+     "image_id": "image_05",
+     "amount": 704.05,
+     "currency": "INR",
+     "field_label": "Amount due till"
+    },
+    {
+     "image_id": "image_06",
+     "amount": 1995.0,
+     "currency": "INR",
+     "field_label": "Total"
+    },
+    {
+     "image_id": "image_07",
+     "amount": 8528.0,
+     "currency": "INR",
+     "field_label": "Grand Total (RS)"
+    },
+    {
+     "image_id": "image_08",
+     "amount": 15339.0,
+     "currency": "INR",
+     "field_label": "Total Amount Received"
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 9229,
+   "output_tokens": 431
+  }
+ },
+ "a19ba820e36995e053633a4d203bbeea3d4d69e977a93055c83bf9a63d911a9c": {
+  "output": {
+   "images": [
+    {
+     "image_id": "image_09",
+     "amount": 723.0,
+     "currency": "INR",
+     "field_label": "Total Amount Received"
+    },
+    {
+     "image_id": "image_10",
+     "amount": 79679.26,
+     "currency": "INR",
+     "field_label": "Balance Due"
+    },
+    {
+     "image_id": "image_11",
+     "amount": 3650.0,
+     "currency": "INR",
+     "field_label": "Balance"
+    },
+    {
+     "image_id": "image_12",
+     "amount": 33.5,
+     "currency": "USD",
+     "field_label": "Total"
+    },
+    {
+     "image_id": "image_13",
+     "amount": 2298.0,
+     "currency": "INR",
+     "field_label": "Total paid"
+    },
+    {
+     "image_id": "image_14",
+     "amount": 4543.0,
+     "currency": "INR",
+     "field_label": "TOTAL"
+    },
+    {
+     "image_id": "image_15",
+     "amount": 9968.0,
+     "currency": "INR",
+     "field_label": "Grand Total"
+    },
+    {
+     "image_id": "image_16",
+     "amount": 393.22,
+     "currency": "INR",
+     "field_label": "Total"
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 9310,
+   "output_tokens": 416
+  }
+ },
+ "9028c4e72dedf641218f8305f27e9f7cd32fda37ffd1913565cfe863a9260273": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_01",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 42750000,
+       "currency": "IDR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_02",
+     "facts": []
+    },
+    {
+     "message_id": "message_03",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_04",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1037.52,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_05",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2024-09-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_06",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1422.85,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_07",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_08",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 38760000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_09",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_10",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 2717,
+       "currency": "EUR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-08-15",
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_11",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 1661,
+       "currency": "EUR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_12",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12
+      }
+     ]
+    },
+    {
+     "message_id": "message_13",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_14",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_15",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_16",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_17",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_18",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 30780000,
+       "currency": "IDR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_19",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_20",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1452,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 653.4,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_21",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_22",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 54120,
+       "currency": "ZAR",
+       "effective_date": "2025-02-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_23",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_24",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 196000,
+       "currency": "INR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_25",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2721,
+   "output_tokens": 2546
+  }
+ },
+ "9e68472c0a971d4a5ddf3c00f0f32b47f2d3b39b9c097fa4a6403f504abfafac": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_26",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 2988,
+       "currency": "USD",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_27",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 21090000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 9490500,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_28",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_29",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 1760,
+       "currency": "EUR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_30",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 148000,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_31",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 32870000,
+       "currency": "IDR",
+       "effective_date": "2024-09-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_32",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 115000,
+       "currency": "INR",
+       "effective_date": "2025-02-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_33",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 17290000,
+       "currency": "IDR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_34",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_35",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_36",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 31464000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_37",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 126000,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_38",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 69000,
+       "currency": "INR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_39",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_40",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 42460,
+       "currency": "ZAR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_41",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_42",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 25840000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_43",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_44",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 530.4,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_45",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_46",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 2112,
+       "currency": "USD",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_47",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_48",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_49",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 116000,
+       "currency": "INR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_50",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-02-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2758,
+   "output_tokens": 2434
+  }
+ },
+ "93e628835498b4ce8ccb359f475fa28b599607e8533026749d90cb20e6198bf9": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_51",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12.0
+      }
+     ]
+    },
+    {
+     "message_id": "message_52",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_53",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 696.0,
+       "currency": "USD",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_54",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 18700.0,
+       "currency": "ZAR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_55",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12.0
+      }
+     ]
+    },
+    {
+     "message_id": "message_56",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 26180.0,
+       "currency": "ZAR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_57",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_58",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 3072.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_59",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_60",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 158000.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_61",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12.0
+      }
+     ]
+    },
+    {
+     "message_id": "message_62",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1752.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 788.4,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_63",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 62000.0,
+       "currency": "INR",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-05-01",
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_64",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_65",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 8618400.0,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_66",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 251000.0,
+       "currency": "INR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2026-01-01",
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_67",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_68",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 13420.0,
+       "currency": "ZAR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_69",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_70",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 49280.0,
+       "currency": "ZAR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_71",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_72",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 924.0,
+       "currency": "EUR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_73",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-05-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_74",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1804.0,
+       "currency": "EUR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_75",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2738,
+   "output_tokens": 2579
+  }
+ },
+ "04ba3bfc45476a3ee4ca0225c7b864a03445efea76661decd712ca025de0e2d6": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_76",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 1419.0,
+       "currency": "EUR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_77",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 164880.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_78",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 35860.0,
+       "currency": "ZAR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_79",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_80",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 1815.0,
+       "currency": "EUR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_81",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 2123.0,
+       "currency": "EUR",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_82",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 33440.0,
+       "currency": "ZAR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_83",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 16720.0,
+       "currency": "ZAR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_84",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_85",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 627.0,
+       "currency": "EUR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_86",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1296.0,
+       "currency": "USD",
+       "effective_date": "2026-09-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_87",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 148200.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_88",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_89",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1188.0,
+       "currency": "EUR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_90",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 759.0,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 341.55,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_91",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 176000.0,
+       "currency": "INR",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-05-01",
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_92",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_93",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 15390000.0,
+       "currency": "IDR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_94",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_95",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 748.0,
+       "currency": "EUR",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_96",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 152000.0,
+       "currency": "INR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_97",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 50160.0,
+       "currency": "ZAR",
+       "effective_date": "2024-09-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2024-09-01",
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_98",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_99",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_100",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 2177.28,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2862,
+   "output_tokens": 2633
+  }
+ },
+ "9ae641c6cc6f6998a652de3bb91cf4535fee34dc2c90f030112b196b045f74ae": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_101",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-05-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_102",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1193.4,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_103",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_104",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 828.0,
+       "currency": "USD",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_105",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12.0
+      }
+     ]
+    },
+    {
+     "message_id": "message_106",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_107",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 31900.0,
+       "currency": "ZAR",
+       "effective_date": "2025-02-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_108",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_109",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 2040.0,
+       "currency": "USD",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_110",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_111",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 864.0,
+       "currency": "USD",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_112",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 258000.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 116100.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_113",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1529.0,
+       "currency": "EUR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_114",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_115",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 893.75,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_116",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 46170000.0,
+       "currency": "IDR",
+       "effective_date": "2024-09-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_117",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_118",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_119",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1628.0,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_120",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 84000.0,
+       "currency": "INR",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_121",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_122",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 23940000.0,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_123",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_124",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 1672.0,
+       "currency": "EUR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_125",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 26790000.0,
+       "currency": "IDR",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2796,
+   "output_tokens": 2587
+  }
+ },
+ "158768d2bd962185241c225b73b4000218beff883f68df04f86b4c6ab45ca7bc": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_126",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 29070000.0,
+       "currency": "IDR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_127",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 30400000.0,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 13680000.0,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_128",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 44270000.0,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_129",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_130",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 2340.0,
+       "currency": "USD",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_131",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-05-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_132",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 137150.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_133",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_134",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_135",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_136",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_137",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1284.0,
+       "currency": "USD",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_138",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1924.56,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_139",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 847.0,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_140",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1731.6,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_141",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 2376.0,
+       "currency": "EUR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_142",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_143",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 59000.0,
+       "currency": "INR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_144",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_145",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_146",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_147",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12.0
+      }
+     ]
+    },
+    {
+     "message_id": "message_148",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 31889.0,
+       "currency": "ZAR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_149",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 145000.0,
+       "currency": "INR",
+       "effective_date": "2024-09-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_150",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2807,
+   "output_tokens": 2668
+  }
+ },
+ "9e92d842d837aef44051d22c1974b5ba4e71be84e3b66c48ab014db9d8d46a55": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_151",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 627.0,
+       "currency": "EUR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_152",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_153",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1750.32,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_154",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-08-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_155",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1222.65,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_156",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 38190000.0,
+       "currency": "IDR",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_157",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_158",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_159",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_160",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_161",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_162",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 2024.0,
+       "currency": "EUR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_163",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_164",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_165",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-02-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_166",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_167",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_168",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_169",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 2424.0,
+       "currency": "USD",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_170",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1914.0,
+       "currency": "EUR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2026-04-01",
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_171",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1346.4,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_172",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_173",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 35200.0,
+       "currency": "ZAR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_174",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_175",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12.0
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2778,
+   "output_tokens": 2402
+  }
+ },
+ "bad4379d7dddc9910b373694d7ca3431116592a7a7c280e6a062b14d53582405": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_176",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 260000.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 117000.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_177",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_178",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 30400000.0,
+       "currency": "IDR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_179",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_180",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 2827.0,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_181",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 2772.0,
+       "currency": "EUR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_182",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 16910000.0,
+       "currency": "IDR",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_183",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_184",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_185",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_186",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_187",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 912.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_188",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 62000.0,
+       "currency": "INR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_189",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_190",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 968.0,
+       "currency": "EUR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_191",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1680.0,
+       "currency": "USD",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_192",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_193",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1528.56,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_194",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1548.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_195",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 702.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_196",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 53680.0,
+       "currency": "ZAR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_197",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_198",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_199",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_200",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 214000.0,
+       "currency": "INR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2741,
+   "output_tokens": 2485
+  }
+ },
+ "5656419a36517611a339682f6cc3f228403dc829ad9bf6d27ab7a7891c4ba21e": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_201",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_202",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_203",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 48260000.0,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_204",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1485.0,
+       "currency": "EUR",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_205",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_206",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_207",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_208",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_209",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_210",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 38280.0,
+       "currency": "ZAR",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_211",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 103000.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 46350.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_212",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_213",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_214",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_215",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 1862,
+   "output_tokens": 1434
+  }
+ },
+ "8bacd8db311986dc878c0a19e621bc77a4a5d85fca3b87cbbd496fbe60f2fb36": {
+  "output": {
+   "images": [
+    {
+     "image_id": "image_01",
+     "amount": 4365000,
+     "currency": "IDR",
+     "field_label": "Net Pay"
+    },
+    {
+     "image_id": "image_02",
+     "amount": 100000,
+     "currency": "INR",
+     "field_label": "Balance Due"
+    },
+    {
+     "image_id": "image_03",
+     "amount": 41272,
+     "currency": "INR",
+     "field_label": "Cash Paid"
+    },
+    {
+     "image_id": "image_04",
+     "amount": 2854,
+     "currency": "INR",
+     "field_label": "Item Bill"
+    },
+    {
+     "image_id": "image_05",
+     "amount": 704.05,
+     "currency": "INR",
+     "field_label": "Amount due till 06-Feb-2026"
+    },
+    {
+     "image_id": "image_06",
+     "amount": 1995,
+     "currency": "INR",
+     "field_label": "Total"
+    },
+    {
+     "image_id": "image_07",
+     "amount": 8528,
+     "currency": "INR",
+     "field_label": "Grand Total"
+    },
+    {
+     "image_id": "image_08",
+     "amount": 15339,
+     "currency": "INR",
+     "field_label": "Total Amount Received"
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 9229,
+   "output_tokens": 1991
+  }
+ },
+ "f2844a367b0597e8c38887bb953a3387dcd0720751368fabf258772a7a7d5a9f": {
+  "output": {
+   "images": [
+    {
+     "image_id": "image_09",
+     "amount": 723.0,
+     "currency": "INR",
+     "field_label": "Total Amount Received"
+    },
+    {
+     "image_id": "image_10",
+     "amount": 79679.26,
+     "currency": "INR",
+     "field_label": "Balance Due"
+    },
+    {
+     "image_id": "image_11",
+     "amount": 3650.0,
+     "currency": "INR",
+     "field_label": "Balance"
+    },
+    {
+     "image_id": "image_12",
+     "amount": 33.5,
+     "currency": "USD",
+     "field_label": "Total"
+    },
+    {
+     "image_id": "image_13",
+     "amount": 2298.0,
+     "currency": "INR",
+     "field_label": "Total paid"
+    },
+    {
+     "image_id": "image_14",
+     "amount": 4543.0,
+     "currency": "INR",
+     "field_label": "TOTAL"
+    },
+    {
+     "image_id": "image_15",
+     "amount": 9968.0,
+     "currency": "INR",
+     "field_label": "Grand Total"
+    },
+    {
+     "image_id": "image_16",
+     "amount": 393.22,
+     "currency": "INR",
+     "field_label": "Total"
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 9310,
+   "output_tokens": 1782
+  }
+ },
+ "e47b76936acb06b25a77ae1ca86ddb64962590764f9c36ce87289275d779a5a7": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_01",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 42750000,
+       "currency": "IDR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_02",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_03",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_04",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1037.52,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_05",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2024-09-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_06",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1422.85,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_07",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_08",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 38760000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_09",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_10",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 2717,
+       "currency": "EUR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_11",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 1661,
+       "currency": "EUR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_12",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12
+      }
+     ]
+    },
+    {
+     "message_id": "message_13",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_14",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_15",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_16",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_17",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_18",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 30780000,
+       "currency": "IDR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_19",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_20",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1452,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 653.4,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_21",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_22",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 54120,
+       "currency": "ZAR",
+       "effective_date": "2025-02-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_23",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_24",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 196000,
+       "currency": "INR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_25",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2721,
+   "output_tokens": 2482
+  }
+ },
+ "0b469ac1c153fceaa1254feb4f8d42324655e836cdff69c8e31174e51225ca2f": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_26",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 2988,
+       "currency": "USD",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_27",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 21090000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 9490500,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_28",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_29",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 1760,
+       "currency": "EUR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_30",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 148000,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_31",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 32870000,
+       "currency": "IDR",
+       "effective_date": "2024-09-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_32",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 115000,
+       "currency": "INR",
+       "effective_date": "2025-02-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_33",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 17290000,
+       "currency": "IDR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_34",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_35",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_36",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 31464000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_37",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 126000,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_38",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 69000,
+       "currency": "INR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_39",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_40",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 42460,
+       "currency": "ZAR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_41",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_42",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 25840000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_43",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_44",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 530.4,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_45",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_46",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 2112,
+       "currency": "USD",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_47",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_48",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_49",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 116000,
+       "currency": "INR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_50",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-02-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2758,
+   "output_tokens": 2600
+  }
+ },
+ "189b94bc1d4c800c884097e39f5351d798502ba91c58c84f1abf00be397a99b5": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_51",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12.0
+      }
+     ]
+    },
+    {
+     "message_id": "message_52",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_53",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 696.0,
+       "currency": "USD",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_54",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 18700.0,
+       "currency": "ZAR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_55",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12.0
+      }
+     ]
+    },
+    {
+     "message_id": "message_56",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 26180.0,
+       "currency": "ZAR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_57",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_58",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 3072.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_59",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_60",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 158000.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_61",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12.0
+      }
+     ]
+    },
+    {
+     "message_id": "message_62",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1752.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 788.4,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_63",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 62000.0,
+       "currency": "INR",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-05-01",
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_64",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_65",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 8618400.0,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_66",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 251000.0,
+       "currency": "INR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2026-01-01",
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_67",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_68",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 13420.0,
+       "currency": "ZAR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_69",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_70",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 49280.0,
+       "currency": "ZAR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_71",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_72",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 924.0,
+       "currency": "EUR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_73",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-05-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_74",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1804.0,
+       "currency": "EUR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_75",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2738,
+   "output_tokens": 2749
+  }
+ },
+ "b443b860734b02a671040973f3c70604fb6f47df643b808c35a5f1ee60d0357d": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_76",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 1419,
+       "currency": "EUR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_77",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 164880,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_78",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 35860,
+       "currency": "ZAR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_79",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_80",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 1815,
+       "currency": "EUR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_81",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 2123,
+       "currency": "EUR",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_82",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 33440,
+       "currency": "ZAR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_83",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 16720,
+       "currency": "ZAR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_84",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_85",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 627,
+       "currency": "EUR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_86",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "next_salary_amount",
+       "amount": 1296,
+       "currency": "USD",
+       "effective_date": "2026-09-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_87",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 148200,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_88",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_89",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1188,
+       "currency": "EUR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_90",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 759,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 341.55,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_91",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 176000,
+       "currency": "INR",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_92",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_93",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 15390000,
+       "currency": "IDR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_94",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_95",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 748,
+       "currency": "EUR",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_96",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 152000,
+       "currency": "INR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_97",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 50160,
+       "currency": "ZAR",
+       "effective_date": "2024-09-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_98",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_99",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_100",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 2177.28,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2862,
+   "output_tokens": 2979
+  }
+ },
+ "e37d870d0239c34e9e81041029d04393fc3374022e5e6c91a49da31d35cfc7b3": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_101",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-05-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_102",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1193.4,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_103",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_104",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 828,
+       "currency": "USD",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_105",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12
+      }
+     ]
+    },
+    {
+     "message_id": "message_106",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_107",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 31900,
+       "currency": "ZAR",
+       "effective_date": "2025-02-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_108",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_109",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 2040,
+       "currency": "USD",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_110",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_111",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 864,
+       "currency": "USD",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_112",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 258000,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 116100,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_113",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1529,
+       "currency": "EUR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_114",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_115",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 893.75,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_116",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 46170000,
+       "currency": "IDR",
+       "effective_date": "2024-09-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_117",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_118",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_119",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1628,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_120",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 84000,
+       "currency": "INR",
+       "effective_date": "2025-05-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_121",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_122",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 23940000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_123",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_124",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 1672,
+       "currency": "EUR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_125",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 26790000,
+       "currency": "IDR",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2796,
+   "output_tokens": 2614
+  }
+ },
+ "72cd8d7769a44f1a83f27af6cce412cfbf55ba073d05057796ebd30a2d8ac041": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_126",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 29070000,
+       "currency": "IDR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_127",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 30400000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 13680000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_128",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 44270000,
+       "currency": "IDR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_129",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_130",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 2340,
+       "currency": "USD",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_131",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-05-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_132",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 137150,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_133",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_134",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_135",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_136",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_137",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1284,
+       "currency": "USD",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_138",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1924.56,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_139",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 847,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_140",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1731.6,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_141",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 2376,
+       "currency": "EUR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_142",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_143",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 59000,
+       "currency": "INR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_144",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_145",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_146",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_147",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12
+      }
+     ]
+    },
+    {
+     "message_id": "message_148",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 31889,
+       "currency": "ZAR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_149",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 145000,
+       "currency": "INR",
+       "effective_date": "2024-09-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_150",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2807,
+   "output_tokens": 2642
+  }
+ },
+ "2b73b83ef4dd2145e588ede6bf4e96c318c80d4bd1c3a4b0395a0fbe4ddba11c": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_151",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 627,
+       "currency": "EUR",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_152",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_153",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1750.32,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_154",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-08-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_155",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1222.65,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_156",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 38190000,
+       "currency": "IDR",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_157",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_158",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_159",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_160",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_161",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_162",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 2024,
+       "currency": "EUR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_163",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_164",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_165",
+     "facts": [
+      {
+       "kind": "salary_date_change",
+       "amount": null,
+       "currency": null,
+       "effective_date": "2025-02-23",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_166",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_167",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_168",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_169",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 2424,
+       "currency": "USD",
+       "effective_date": "2026-07-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_170",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1914,
+       "currency": "EUR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "new_recurring_expense",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "childcare",
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_171",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1346.4,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_172",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_173",
+     "facts": [
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 35200,
+       "currency": "ZAR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_174",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_175",
+     "facts": [
+      {
+       "kind": "expense_change_percent",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": "rent",
+       "percent_change": 12
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2778,
+   "output_tokens": 2378
+  }
+ },
+ "0b561b0e20b41493f531d027a2ba4ef183e348e0303d1c0aaa7595f70e29335b": {
+  "output": {
+   "messages": [
+    {
+     "message_id": "message_176",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 260000.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "confirmed_one_time_income",
+       "amount": 117000.0,
+       "currency": "INR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_177",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_178",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 30400000.0,
+       "currency": "IDR",
+       "effective_date": "2026-04-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_179",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_180",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 2827.0,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_181",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 2772.0,
+       "currency": "EUR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_182",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 16910000.0,
+       "currency": "IDR",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_183",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_184",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_185",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_186",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_187",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 912.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_188",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 62000.0,
+       "currency": "INR",
+       "effective_date": "2026-01-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_189",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_190",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 968.0,
+       "currency": "EUR",
+       "effective_date": "2025-08-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_191",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 1680.0,
+       "currency": "USD",
+       "effective_date": "2025-11-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_192",
+     "facts": [
+      {
+       "kind": "income_ended",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_193",
+     "facts": [
+      {
+       "kind": "temporary_salary_amount",
+       "amount": 1528.56,
+       "currency": "EUR",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_194",
+     "facts": [
+      {
+       "kind": "recurring_salary_amount",
+       "amount": 1548.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      },
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_195",
+     "facts": [
+      {
+       "kind": "next_salary_amount",
+       "amount": 702.0,
+       "currency": "USD",
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_196",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 53680.0,
+       "currency": "ZAR",
+       "effective_date": "2024-12-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_197",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_198",
+     "facts": [
+      {
+       "kind": "no_forecast_effect",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_199",
+     "facts": [
+      {
+       "kind": "unconfirmed_income",
+       "amount": null,
+       "currency": null,
+       "effective_date": null,
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    },
+    {
+     "message_id": "message_200",
+     "facts": [
+      {
+       "kind": "first_salary",
+       "amount": 214000.0,
+       "currency": "INR",
+       "effective_date": "2024-06-15",
+       "expense_category": null,
+       "percent_change": null
+      }
+     ]
+    }
+   ]
+  },
+  "usage": {
+   "input_tokens": 2741,
+   "output_tokens": 2595
+  }
+ }
+}
