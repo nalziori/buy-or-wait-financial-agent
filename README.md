@@ -2,7 +2,7 @@
 
 A personalized financial agent for the **HackerRank Orchestrate** hackathon (September 2026). Given a request like *"Can I afford this laptop?"*, it simulates 90 days of a user's cash flow and decides whether they should pay in full, pay partially, use installments, wait, or not proceed at all.
 
-**Result:** 85th / 3,019 participants (top ~2.8%).
+**Result:** 86th / 3,062 participants (top ~2.8%), final score 68.1/100.
 
 ## Why this is interesting
 
