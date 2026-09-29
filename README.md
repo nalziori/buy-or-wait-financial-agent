@@ -2,7 +2,7 @@
 
 A personalized financial agent for the **HackerRank Orchestrate** hackathon (September 2026). Given a request like *"Can I afford this laptop?"*, it simulates 90 days of a user's cash flow and decides whether they should pay in full, pay partially, use installments, wait, or not proceed at all.
 
-**Result:** 86th / 3,062 participants (top ~2.8%), final score 68.1/100.
+**Result:** 86th / 3,062 participants (top ~2.8%), final score 68.1 / 100. Chat transcript 9.6/10, AI judge interview 23.7/30, Output CSV 12.6/30, Code zip 22.2/30.
 
 ## Why this is interesting
 
@@ -42,6 +42,19 @@ No external dependencies beyond the Python standard library.
 - `dataset/` — the organizer-provided input data
 - `log.txt` — full development transcript (required submission artifact)
 - `CLAUDE.md` / `AGENTS.md` — the project brief and eval-iteration log this was built against
+
+## Judge feedback received (and what it changes)
+
+The organizers sent written feedback on 2026-09-22. Summary, with how it maps onto this code:
+
+| Area | Feedback | What I found in the code / next step |
+|---|---|---|
+| Output CSV | Rows that should be "affordable with a plan" or "affordable now" were marked not affordable; safe-to-pay was far from what the cash flow supports; spending changes and earliest payment date were often missing or mismatched. **Make one cash-flow forecast the single source of truth** for action, safe-to-pay, timing and spending changes. | `planner.decide` already derives everything from one forecast, so the main causes are (1) forecast error (local check: `amount_safe_to_pay` exact match 3/25), and (2) `amount_safe_to_pay` and `earliest` are computed *before* spending changes ([`planner.py:97-98`](code/planner.py)) while `affordable_with_plan` is decided *after* them ([`planner.py:120`](code/planner.py)), so those fields can disagree with the chosen plan. Next: recompute all four fields from the selected plan in one pass. |
+| Code | A quota, timeout or malformed model response can stop the whole run. Add a deterministic fallback ("not enough evidence", conservative defaults, keep processing) and validate rows before writing. Consider a small planner/router so it behaves more like an agent; add few-shot examples for conflicting messages. | `llm.py` raises after retries and `main.py` has no per-request guard or output validation. Next: per-row try/except, a `validate(row)` check of cross-field rules before `output.csv` is written, conflict examples in the extraction prompt. |
+| Chat transcript | Strong constraints and a rigorous verify loop. State the output contract and cross-field rules up front, explain module boundaries and approach choices before scaffolding, write down policies for missing or contradictory evidence, and paste raw stack traces when debugging. | Applies to the next build; the contract goes into `CLAUDE.md` before any code. |
+| Interview | Answer first, then one concrete walk-through; explain numeric calibration as what the parameter does, where it lives, and how it was checked; be ready to point to files and functions and to end-to-end results. | Preparation habit, not a code change. |
+
+These are not fixed in this repository yet; the submitted code is unchanged.
 
 ## Known, disclosed limitations
 
